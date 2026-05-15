@@ -1,5 +1,4 @@
 # CenrAI-RS
----
 
 Modern food recommendation applications often operate as black-box systems that provide suggestions without explaining the reasoning behind them. Although existing nutritional recommendation systems help users discover healthy meals, many lack transparency, personalization, and community-driven adaptability. This paper presents CenrAI, a community-based explainable nutritional recipe recommendation system that integrates Artificial Intelligence, nutritional analysis, collaborative filtering, and explainable AI techniques to deliver transparent and personalized food recommendations.
 
@@ -10,5 +9,5 @@ The proposed framework aims to improve user trust, dietary awareness, and recomm
 ### AI powered Community based Explainable Nutritional Recipe Application
 AI-assisted nutritional recipe recommendation platform designed around three major principles: personalization, transparency, and community intelligence. The system analyses user health profiles, nutritional information, and community-generated interactions to generate personalized recipe recommendations supported by understandable explanations.
 
-
+### Key-words: 
 Explainable AI, Personalized Nutrition, Food Recommendation System, Collaborative Filtering, Nutritional Analysis, Community Intelligence
